@@ -1,0 +1,30 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Mar 10 16:46:33 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21759 8169 700233 328000) (desktop . "206") "xtrm0@lenovo" nil nil ((((font-backend xft x) (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Monospace 11") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground) (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen . maximized) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (sticky) (environment) (frameset--id . "4912-B092-6090-9D1D") (frameset--mini t . t) (height . 53) (width . 211) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 27) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 90) (min-pixel-height-ignore . 38) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 19) (min-pixel-width-safe . 18)) leaf (pixel-width . 1920) (pixel-height . 995) (total-width . 213) (total-height . 52) (normal-height . 1.0) (normal-width . 1.0) (buffer "class3.3.c" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 3101) (start . 1627))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/xtrm0/repo/school/aed/labs/01/Dist/Codigo/Parte 1"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/xtrm0/repo/school/aed/labs/01/Dist/Codigo/Parte 1/class3.3.c"
+  "class3.3.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode)
+  3101
+  '(5438 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix)))
+
